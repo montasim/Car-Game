@@ -6,6 +6,8 @@ This Car Game Is Made Using Python 3.8.2 and Pygame Module 2.0.0 dev7. Hope You 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 # Features
 
   - Random car position
