@@ -1,5 +1,7 @@
 # Car Game By Montasim
 
+[![HitCount](http://hits.dwyl.com/montasimmamun/Car-Game.svg)](http://hits.dwyl.com/montasimmamun/Car-Game)
+
 This Car Game Is Made Using Python 3.8.2 and Pygame Module 2.0.0 dev7. Hope You Will Like The Game and you can also use the code to make your own version of game. If you use this code give credit to AUTHOR
 
 # Features
@@ -54,5 +56,19 @@ License
 **MIT License**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=montasimmamun&repo=Car-Game)](https://github.com/montasimmamun/Car-Game)
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://montasimcv.000webhostapp.com/
+[twitter]: https://twitter.com/montasimmamun
+[youtube]: https://youtube.com/montasimmamun
+[instagram]: https://instagram.com/montasimmamun
+[linkedin]: https://linkedin.com/in/montasimmamun
 
 
