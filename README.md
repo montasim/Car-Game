@@ -33,13 +33,6 @@
 <br>
 
 
-<h1 align="left">Website Name :  Portfolio Website</h1>
-
-<h3 align="left">A simple portfolio website made with Bootstrap.</h3>
-
-
-<br>
-
 ## Car Game By Montasim
 
 [![HitCount](http://hits.dwyl.com/montasimmamun/Car-Game.svg)](http://hits.dwyl.com/montasimmamun/Car-Game)
@@ -101,6 +94,7 @@ License
 
 **MIT License**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=montasimmamun&repo=Car-Game)](https://github.com/montasimmamun/Car-Game)
+[//]: # "handshake gif"
 
-
+<img align="center" alt="handshake gif" src="https://github-readme-stats.vercel.app/api/pin/?username=montasimmamun&repo=Car-Game">
+ 
