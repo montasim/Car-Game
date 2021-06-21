@@ -37,8 +37,6 @@
 
 ## Car Game By Montasim
 
-[![HitCount](http://hits.dwyl.com/montasimmamun/Car-Game.svg)](http://hits.dwyl.com/montasimmamun/Car-Game)
-
 This Car Game Is Made Using Python 3.8.2 and Pygame Module 2.0.0 dev7. Hope You Will Like The Game and you can also use the code to make your own version of game. If you use this code give credit to AUTHOR
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
